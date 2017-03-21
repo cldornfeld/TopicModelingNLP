@@ -1,0 +1,7 @@
+Student_Code,Group,p19_1
+stu1,Blue,Here is a sample text entry for analysis.
+stu2,Blue,"If you use a Mac, make sure to save your csv as a Windows Comma Separated file."
+stu3,Blue,Line 34 can help you find errors in your file.
+stu4,Red,Punctuation marks such as apostrophes can be problematic in a csv.
+stu5,Red,"Do not use apostrophes if you can help it. Question marks, too."
+stu6,Red,Oddly enough commas are not a big deal. 
